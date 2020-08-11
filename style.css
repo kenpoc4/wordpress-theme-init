@@ -1,0 +1,15 @@
+/*   
+Theme Name: cine_Kmir v2.0
+Theme URI: www.cinekmir.com
+Description: Theme para la página -> www.cinekmir.com
+Author: Kenny Poncio
+Author URI: www.github.com/kenpoc4
+Version: 2.0
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: cineKmir
+*/
+
+body {
+    background: red;
+}
